@@ -1,0 +1,59 @@
+.to-do-list {
+  padding: 15px 0 15px 30px;
+  font-size: 22px;
+  color: #6f42c1;
+  text-align: center;
+}
+
+#my_input {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#click-me {
+  padding: 5px 15px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid #0062cc;
+  color: #fff;
+  background-color: #0069d9;
+}
+
+span {
+  padding: 5px 50px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin: 2px;
+  list-style: none;
+}
+
+input[type=text] {
+  padding: 3px 10px;
+  border: 1px solid black;
+  margin: 3px;
+  border-radius: 15px;
+  outline: none;
+  font-size: 14px;
+}
+
+#my-btn {
+  margin: 3px 10px;
+}
+
+.change-btn1 {
+  padding: 3px 15px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid #0062cc;
+  color: #fff;
+  background-color: #0069d9;
+}
+
+#change {
+  display: none
+}
+
